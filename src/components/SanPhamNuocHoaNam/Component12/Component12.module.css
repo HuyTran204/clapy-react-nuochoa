@@ -1,0 +1,58 @@
+.component8.component8 {
+  left: 0;
+  right: 42.2018%;
+  top: 26.087%;
+  bottom: 51.3043%;
+  width: initial;
+  height: initial;
+}
+.image17.image17 {
+  background-image:/* webpackIgnore: true */ url('assets/image172.png');
+}
+.root {
+  position: absolute;
+  left: 2854px;
+  top: 2709px;
+  width: 218px;
+  height: 115px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.image16 {
+  position: absolute;
+  left: 0;
+  right: 45.8716%;
+  top: 60.8696%;
+  bottom: 0;
+  background-image:/* webpackIgnore: true */ url('assets/image16.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.pHUONGTHUCTHANHTOAN {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 86.9565%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 16px;
+  line-height: 100%;
+  font-weight: bold;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+}

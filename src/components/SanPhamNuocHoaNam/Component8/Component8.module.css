@@ -1,0 +1,29 @@
+.root {
+  position: absolute;
+  left: -2891px;
+  top: 1415px;
+  width: 126px;
+  height: 26px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.rectangle42 {
+  position: absolute;
+  left: 0;
+  right: 3.1746%;
+  top: 0;
+  bottom: 0;
+  border-radius: 7px;
+  background-color: #fff;
+}
+.image17 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 7.6923%;
+  bottom: 7.6923%;
+  background-image:/* webpackIgnore: true */ url('assets/image17.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

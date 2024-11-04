@@ -1,0 +1,129 @@
+.root {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 109px;
+}
+.trangChu {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame1 {
+  width: 99px;
+  height: min-content;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.sanPham {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector {
+  width: 12px;
+  height: 6px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.flashsale {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.tuVan {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.blog {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.camNangNuocHoa {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame2 {
+  width: min-content;
+  height: min-content;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.huongDan {
+  color: #3e2723;
+  font-size: 24px;
+  line-height: 100%;
+  font-family: Alumni Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vector2 {
+  width: 12px;
+  height: 6px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}

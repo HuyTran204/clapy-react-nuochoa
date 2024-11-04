@@ -1,0 +1,13 @@
+.root {
+  position: absolute;
+  left: 2010px;
+  top: 2662px;
+  width: 1440px;
+  height: min-content;
+  flex-direction: column;
+}
+.rectangle65 {
+  height: 252px;
+  align-self: stretch;
+  background-color: #000080;
+}
